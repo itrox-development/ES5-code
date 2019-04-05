@@ -1,0 +1,5 @@
+HOW TO RUN
+Browser console
+
+ABOUT
+This script calculates someones age based on the current year

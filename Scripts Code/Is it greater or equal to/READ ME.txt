@@ -1,0 +1,5 @@
+HOW TO RUN
+Browser console
+
+ABOUT
+This script shows three weays to check if a value is greater than or equal to five, through a mini game.

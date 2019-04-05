@@ -1,0 +1,5 @@
+HOW TO RUN
+Browser console
+
+ABOUT
+This script calculates the years until retirments and asks the job role.
